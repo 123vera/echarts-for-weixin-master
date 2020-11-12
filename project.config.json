@@ -1,0 +1,36 @@
+{
+	"description": "ECharts 图表示例",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": false,
+		"preloadBackgroundData": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"useCompilerModule": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.10.2",
+	"appid": "wxb71b964e9b2fe15e",
+	"projectname": "ECharts%20Demo",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
